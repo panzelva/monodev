@@ -15,6 +15,6 @@ libs to use:
 
 - https://github.com/charmbracelet/bubbletea
 - https://github.com/charmbracelet/lipgloss
-- https://github.com/urfave/cli
+- https://github.com/urfave/cli or https://github.com/jessevdk/go-flags
 - https://github.com/radovskyb/watcher or https://github.com/fsnotify/fsnotify
 
